@@ -1,12 +1,6 @@
-### Hello world ;)
+### Data Scientist, Digital and Data Science projects lead
 
-I am writing so I may exist. Hum, no I am thinking so I may exist.
-However...
-What about the I? When saying "I", is that myself who is speaking? When are my thoughts transformed
-into some saying "I", or even thinking "I"...
-For sure "some" thoughts happen, so something is, the thought... 
-
-... I should think about that...
+With over 10 years of technological innovation serving both business and users, I have recently completed an intensive 9-weeks training in Data Science. This learning experience complements my background in managing Data Science projects, omnichannel digital strategies, and UX, along with the full stack of technical skills for Data Science.
 
 <!--
 **Ken4git/Ken4git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
